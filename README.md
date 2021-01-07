@@ -59,6 +59,9 @@ With the following software and hardware list you can run all code files present
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://static.packt-cdn.com/downloads/9781800565661_ColorImages.pdf).
 
+## Errata
+ 
+* Page 79, Step 5: **unqiue** _should be_ **unique**
 
 ### Related products <Other books you may enjoy>
 * Practical Data Analysis Using Jupyter Notebook [[Packt]](https://www.packtpub.com/product/practical-data-analysis-using-jupyter-notebook/9781838826031) [[Amazon]](https://www.amazon.com/dp/B08BNDJJH6)
