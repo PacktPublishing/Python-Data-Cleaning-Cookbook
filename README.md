@@ -1,8 +1,3 @@
-## $5 Tech Unlocked 2021!
-[Buy and download this Book for only $5 on PacktPub.com](https://www.packtpub.com/product/python-data-cleaning-cookbook/9781800565661)
------
-*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
-
 # Python Data Cleaning Cookbook
 
 <a href="https://www.packtpub.com/product/python-data-cleaning-cookbook/9781800565661?utm_source=github&utm_medium=repository&utm_campaign=9781800208919"><img src="https://static.packt-cdn.com/products/9781800565661/cover/smaller" alt="Learn Amazon SageMaker" height="256px" align="right"></a>
