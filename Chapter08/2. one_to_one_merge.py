@@ -21,9 +21,9 @@ nls97add.originalid.nunique()==nls97add.shape[0]
 # create some mismatched ids
 nls97 = nls97.sort_values('originalid')
 nls97add = nls97add.sort_values('originalid')
-nls97.iloc[0:2, -1] = nls97.originalid+10000
+nls97.iloc[0:2, -1] = nls97.iloc[0:2, -1] + 10000
 nls97.originalid.head(2)
-nls97add.iloc[0:2, 0] = nls97add.originalid+20000
+nls97add.iloc[0:2, 0] = nls97add.iloc[0:2, 0] + 20000
 nls97add.originalid.head(2)
 
 # use join to do a left join
