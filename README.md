@@ -67,3 +67,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 **Michael Walker**  has worked as a data analyst for over 30 years at a variety of educational institutions. He has also taught data science, research methods, statistics, and computer programming to undergraduates since 2006. He generates public sector and foundation reports and conducts analyses for publication in academic journals.
 
 
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781800565661">https://packt.link/free-ebook/9781800565661 </a> </p>
